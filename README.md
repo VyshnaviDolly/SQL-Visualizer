@@ -13,7 +13,8 @@ A web-based SQL Visualizer built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://your-username.github.io/sql-visualizer/
+https://vyshnavidolly.github.io/SQL-Visualizer/
+
 
 ## Project Developed By
-Created using ChatGPT & Kiro assistance
+Created with the help of using ChatGPT & Kiro assistance
